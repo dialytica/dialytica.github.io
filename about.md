@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to Dialytica!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Apa itu dialytica?
+======================
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Sounds weird right? Artinya? yang jelas rahasia hahaha. Sebenarnya sih cuma kata random
+yang saya pakai buat id kaskus saya. Sekarang sudah gak aktif ngaskus lagi sih. Dan sudah
+jadi ID buat github saya. so jangan sungkan buat cek repo saya :p
+
+Mungkin segini dulu kali ya? Nanti tambahi lagi kalau sudah terisi beragam hal. *duh
