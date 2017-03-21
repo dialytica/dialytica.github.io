@@ -5,7 +5,7 @@ date:   2017-03-20 06:44:18
 categories: lyfe
 description: Curhatan sok motivasional
 ---
-Setelah membaca artikel yang kebetulan lewat, [https://m.signalvnoise.com/living-without-expectations-1d66adb10710] yang menjelaskan betapa ekspektasi benar-benar negatif serta merupakan penyebab utama hidup kadang tidak bahagia dan penuh kekecewaan. Aku tercenung, terpikir, aku harus segera hidup tanpa ekspektasi (Atau menurunkannya sampai sangat rendah).
+Setelah membaca artikel yang kebetulan lewat [ini](https://m.signalvnoise.com/living-without-expectations-1d66adb10710), yang menjelaskan betapa ekspektasi benar-benar negatif serta merupakan penyebab utama hidup kadang tidak bahagia dan penuh kekecewaan. Aku tercenung, terpikir, aku harus segera hidup tanpa ekspektasi (Atau menurunkannya sampai sangat rendah).
 
 Sebenarnya soal fakta bahwa ekspektasi itu bukan sesuatu yang sehat sudah aku ketahui sejak lama tetapi aku masih punya pandangan lain. Pandangan bahwa ekspektasi itu seperti mimpi, harapan, dan cita-cita. Baru sekaranglah aku agaknya tersadar, bahwa pandangan itu harus aku ganti. Ekspektasi ternyata bukanlah hal-hal indah nan motivasional seperti itu, ekspektasi dipenuhi khayalan dan delusi. Walaupun mimpi, harapan dan cita-cita masih bisa mengandung hal seperti itu tetapi tampaknya masih bisa diatur tanpa ekspektasi.
 
