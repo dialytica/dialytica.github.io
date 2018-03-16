@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Surviving with My College Life"
-date:   2018-03-16 21:44:18
+date:   2018-03-16 19:44:18
 categories: project, lyfe, learn, ta-skripsi
 description: Proyek pengembangan diri self-publish dan perkembangan skripsi dengan bumbu curhat
 ---
