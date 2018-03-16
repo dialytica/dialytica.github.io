@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Surviving with My College Life"
-date:   2018-03-16 19:44:18
+date:   2018-03-15 19:44:18
 categories: project, lyfe, learn, ta-skripsi
 description: Proyek pengembangan diri self-publish dan perkembangan skripsi dengan bumbu curhat
 ---
@@ -22,7 +22,7 @@ seakan melambat dan hampir kehilangan arah lagi gara-gara beberapa masalah di
 rumah yang tidak bisa saya umbar walaupun ingin hahah.
 
 Selayang Pandang Tugas akhir
-----------------------------
+============================
 
 Tugas akhir saya adalah tentang pendeteksian (klasifikasi) sel darah putih
 (leukosit) terinfeksi demam berdarah pada foto mirkoskopis apusan darah tebal.
@@ -62,7 +62,7 @@ Banyak istilah sulit ya, pada kesempatan berikutnya akan saya jelaskan pada
 post-post lain secara lebih rinci.
 
 Developing the Project
-----------------------
+======================
 
 Tugas akhir ini akan saya kembangkan dengan bahasa pemrograman python. Awal
 mulanya sih saya akan bergantung sepenuhnya pada library eksternal, salah satu
@@ -82,3 +82,6 @@ biru keunguan ditandai dengan lingkaran hijau.
 Gambar di atas hanya contoh saja, belum hasil akhir. Ada rencana memanfaatkan
 web service sehingga sistem diakses dari dalam bentuk web dengan mesin berbasis
 python.
+
+Segini saja dulu sepertinya penjabaran singkat saya tentang proyek saya.
+Semoga konsisten.
